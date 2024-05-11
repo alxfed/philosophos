@@ -1,10 +1,10 @@
-# Package name
-Package Name
+# Philosophos
+φῐλόσοφος • (philósophos) philosopher
 <pre>
-  pip install independent-machine
+  pip install philosophos
 </pre>
 Then:
 ```Python
   # Python
-  import independent_machine
+  import philosophos
 ```
